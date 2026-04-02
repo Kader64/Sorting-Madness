@@ -9,6 +9,8 @@ Projekt został stworzony w czystych technologiach frontendowych:
 
 Aplikacja pozwala w prosty i przejrzysty sposób zobaczyć, jak krok po kroku działają różne algorytmy sortujące.
 
+Link do projektu: https://kader64.github.io/Sorting-Madness/
+
 ---
 
 ## 📸 Podgląd projektu
