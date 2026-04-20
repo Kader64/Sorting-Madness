@@ -1,6 +1,6 @@
-# 🎯 Sorting Madness
+# Sorting Madness
 
-Sorting Madness to aplikacja webowa służąca do wizualizacji działania popularnych algorytmów sortowania.  
+Sorting Madness to aplikacja webowa pozwalająca do zwizualizować działanie popularnych algorytmów sortowania.  
 Projekt został stworzony w czystych technologiach frontendowych:
 
 - **HTML**
@@ -13,36 +13,27 @@ Link do projektu: https://kader64.github.io/Sorting-Madness/
 
 ---
 
-## 📸 Podgląd projektu
+## Podgląd projektu
 
 <img width="1920" height="930" alt="obraz" src="https://github.com/user-attachments/assets/439ca8bc-0445-4081-a19d-aee412fe4443" />
 
 ---
 
-## 🚀 Dostępne algorytmy
+## Dostępne algorytmy
 
 Strona umożliwia wizualizację następujących algorytmów:
 
-- 🔵 **Bubble Sort**
-- 🟢 **QuickSort**
-- 🟡 **Selection Sort**
-- 🟣 **Merge Sort**
-- 🔴 **BogoSort**
+- **Bubble Sort**
+- **QuickSort**
+- **Selection Sort**
+- **Merge Sort**
+- **BogoSort**
 
 Każdy algorytm posiada własną animowaną wizualizację działania na tablicy liczb.
 
 ---
 
-## 🖥️ Funkcjonalności aplikacji
-
-Na podstawie widocznego interfejsu aplikacja oferuje:
-
-### 📌 Wybór algorytmu
-Panel boczny umożliwia szybkie przełączanie się między algorytmami sortowania.
-
----
-
-### 📊 Konfiguracja tablicy
+### Konfiguracja tablicy
 
 Użytkownik może dostosować dane wejściowe przed rozpoczęciem sortowania:
 
@@ -55,7 +46,7 @@ Użytkownik może dostosować dane wejściowe przed rozpoczęciem sortowania:
 
 ---
 
-### ▶️ Sterowanie animacją
+### Sterowanie animacją
 
 - **Run Animation** – włączenie animowanego trybu sortowania
 - **RUN** – rozpoczęcie działania algorytmu
@@ -63,30 +54,10 @@ Użytkownik może dostosować dane wejściowe przed rozpoczęciem sortowania:
 
 ---
 
-### 📈 Wizualizacja działania
+### Wizualizacja działania
 
 - Słupkowa reprezentacja elementów tablicy
 - Aktualnie porównywane elementy wyróżnione kolorem
 - Dynamiczne aktualizowanie pozycji elementów w czasie rzeczywistym
 
----
 
-### 📄 Informacje tekstowe
-
-Pod wizualizacją wyświetlane są:
-
-- **Array before sorting** – tablica przed sortowaniem
-- **Czas sortowania (w milisekundach)**
-- **Array after sorting** – wynik końcowy
-
----
-
-## 🎯 Cel projektu
-
-Celem projektu jest:
-
-- Nauka działania algorytmów sortowania
-- Wizualne porównanie ich efektywności
-- Lepsze zrozumienie różnic między algorytmami
-
----
